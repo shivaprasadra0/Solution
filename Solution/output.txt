@@ -1,0 +1,3 @@
+INFO: 41
+TRACE: 7
+WARNING: 4
